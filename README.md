@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sarra 👋
 
-<!--
-**sarrabenfraj/sarrabenfraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student at Sesame University  
+🎓 Former student at ISET Zaghouan  
 
-Here are some ideas to get you started:
+💻 MERN Stack Developer  
+⚙️ DevOps Enthusiast (Kubernetes, Jenkins, Docker)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+### 🔹 Hunt Job (MERN Stack)
+Full-stack job platform using MongoDB, Express, React, and Node.js.
+
+### 🔹 Gym Management System
+Web application for managing memberships and activities using PHP & MySQL.
+
+### 🔹 Kubernetes DevOps Project
+CI/CD pipeline using Jenkins, Docker, and Kubernetes with monitoring (Prometheus & Grafana).
+
+---
+
+## 🛠 Tech Stack
+- JavaScript, React, Node.js  
+- MongoDB  
+- Docker, Kubernetes  
+- Jenkins  
+- Git & GitHub
